@@ -1,7 +1,37 @@
 {
 
+    "Python Head Document": {
+        "prefix": "|py_head",
+        "body": [
+            "# *************************************************************************",
+            "# Script Name: ",
+            "# Author: ",
+            "# Date: ",
+            "# Description: ",
+            "# *************************************************************************",
+            ""
+        ],
+        "description": "Python Head Document."
+    },
+
+    "Bash Head Document": {
+        "prefix": "|bash_head",
+        "body": [
+            "<< HEAD",
+            "# *************************************************************************",
+            "# Script Name: ",
+            "# Author: ",
+            "# Date: ",
+            "# Description: ",
+            "# *************************************************************************",
+            "HEAD",
+            ""
+        ],
+        "description": "Python Head Document."
+    },
+
     "Bash First Line": {
-        "prefix": "|bb",
+        "prefix": "|bash",
         "body": [
             "#!/bin/bash",
             "",
